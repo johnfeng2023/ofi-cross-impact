@@ -17,7 +17,7 @@ cd ofi-cross-impact
 
 2. **(Optional but recommended) Create a virtual environment**
 ```
-python3 -m venv .venv
+python -m venv .venv
 source .venv/bin/activate
 # On Windows: .venv\Scripts\activate
 ```
